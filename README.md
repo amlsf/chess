@@ -2,7 +2,9 @@
 
 ## Harvard Stat 149: Generalized Linear Models (Spring 2016)
 
-Below are our process workbooks in R Markdown
+Report: `report.pdf`
+
+Below are our process workbooks (with R code)
 
 - `chess_workbook_1.pdf`: Parametric Models
 - `chess_workbook_2.pdf`: Non-Parametric Models
